@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact relation of the most remarkable transactions that happened lately in Ireland with an account of a great sea-fight between the English and French fleets.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38957</idno>
+            <idno type="STC">Wing E3694</idno>
+            <idno type="STC">ESTC R28618</idno>
+            <idno type="EEBO-CITATION">10700701</idno>
+            <idno type="OCLC">ocm 10700701</idno>
+            <idno type="VID">45522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact relation of the most remarkable transactions that happened lately in Ireland with an account of a great sea-fight between the English and French fleets.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Morris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45522:1" rendition="simple:additions"/>
+            <head>An Exact RELATION of the moſt Remark<g ref="char:EOLhyphen"/>able Tranſactions that happened lately in <hi>IRELAND.</hi> With an Account of a great Sea-Fight between the <hi>ENGLISH</hi> and <hi>FRENCH</hi> Fleets.</head>
+            <argument>
+               <p>Licenſed and Entered according to Order.</p>
+            </argument>
+            <p>THE late King <hi>James,</hi> or rather the <hi>French</hi> King <hi>Lewis</hi> having got into their hands all the Towns and Ports in <hi>Ireland, Lon<g ref="char:EOLhyphen"/>don-Derry,</hi> and <hi>Inniskilling</hi> excepted, and by that means ſtopt all Opportunities of Correſpon<g ref="char:EOLhyphen"/>dence, by the former Methods, we have no Advices thence, but what either come by way of <hi>Scotland,</hi> or elſe by Perſons who make their eſcape by Sea hither, as frequently ſome do even in <hi>Gabbards, viz.</hi> an o<g ref="char:EOLhyphen"/>pen Veſſel not unlike our Lighters on the <hi>Thames.</hi>
+            </p>
+            <p>Divers of which have arrived near <hi>Cheſter, Liver<g ref="char:EOLhyphen"/>pool,</hi> and in the Weſt of <hi>Stotland,</hi> one of which late<g ref="char:EOLhyphen"/>ly arrived with 80 Paſſengers, who came from <hi>Lon<g ref="char:EOLhyphen"/>don-Derry,</hi> and ſay that garriſon had made offers of Surrendring to the late King, on Conditions to car<g ref="char:EOLhyphen"/>ry off their Baggage, and have their Lives, which was at firſt accepted of; but Monſieur <hi>D'Aveaux.</hi> who preſides in all Councils, would not conſent, al<g ref="char:EOLhyphen"/>ledging, That ſort of proceeding was not the way to arrive at the Conqueſt that muſt be made in that Kingdom, which hath ſo exaſperated and defperated the Garriſon, as to reſolve to hearken to no Condi<g ref="char:EOLhyphen"/>tions, but ſtand it out to the laſt Man, or until it ſhall pleaſe God to give Opportunity for their being reinforced with ſuch ſufficient help as to be enabled to take the Field.</p>
+            <p>Our laſt Advices thence ſay, they are Beſieged by a great Army, but have 7000 Fighting Men in Gar<g ref="char:EOLhyphen"/>riſon, Arms, Amunition, and Proviſions for two Months, and doubt not of holding it, having in three Sallies killed many of the <hi>Iriſh</hi> and <hi>French,</hi> and a<g ref="char:EOLhyphen"/>mongſt the latter a General Officer, and it is be<g ref="char:EOLhyphen"/>lieved e're this, that Major-General <hi>Kirk,</hi> Sir <hi>John Trelawney,</hi> and Sir <hi>John Hanmore,</hi> with their Regi<g ref="char:EOLhyphen"/>ments, and the Regiment, late Col. <hi>Edgworth</hi>'s, now the Earl of <hi>Meath</hi>'s, are got ſafe into <hi>Derry.</hi>
+            </p>
+            <p>On Monday arrived at <hi>Cheſter</hi> Col. St. <hi>George,</hi> to Command the Regiment late Col. <hi>Richards,</hi> (a Ser<g ref="char:EOLhyphen"/>jent of which for deſerting did ſuffer Death the <hi>7th</hi> Inſtant at <hi>Cheſter</hi>) and alſo Collonel <hi>Stewart</hi> to Com<g ref="char:EOLhyphen"/>mand the Regiment, late Col. <hi>Cunningham</hi>'s now at <hi>Liverpool,</hi> and the ſame day went poſt for <hi>London,</hi> the Collonels that formerly Commanded them.</p>
+            <p>The Garriſon of <hi>London-Derry</hi> having (for what Cauſe not yet known) a Jealouſie that Col. <hi>Lundee</hi> their Governour was guilty of ſome Deſigns upon them, they confined him, and choſe another as you have heard; but their Rage continuing, and fearing every day to be hang'd, he found means to make his eſcape in a ſmall Veſſel, which putting in at <hi>Grenoch</hi> in the Weſt of <hi>Scotland,</hi> and being there known, and the Circumſtances he was under, the <hi>Scots</hi> ſecured him, and ſent him Priſoner to <hi>Dum<g ref="char:EOLhyphen"/>britton</hi> Caſtle, whence on the ſecond Inſtant he was brought to <hi>Edinburgh,</hi> and will there be Examined, Puniſhed, or Acquitted.</p>
+            <p>The brave Lord <hi>Kingston,</hi> Col. <hi>Buchan,</hi> and di<g ref="char:EOLhyphen"/>vers Perſons of Quality are arrived from the North of <hi>Ireland</hi> to <hi>Edinburgh,</hi> and thence gone for <hi>England,</hi> to wait on the King: Some of theſe Gentle<g ref="char:EOLhyphen"/>men ſay, that the preſent State of the Proteſtants is ſcarce conceiveable, being ſurrounded with all ſorts of Miſeries, and labouring under all the Neceſſities of Humane Life, and the daily fears of Death by Barbarous hands, having no viſible deliverance un<g ref="char:EOLhyphen"/>der God, but from <hi>England:</hi> Theſe worthy Perſons kept together, and in divers Skirmiſhes killed many of the <hi>Iriſh,</hi> and defended their Families, Neighbours, and Friends, until Powder, Ball, and Proviſions failed, and the Enemy ſo far advanced, that they could not retreat ſo far as <hi>Derry,</hi> but Embarqued for <hi>Scotland,</hi> firſt killing all their fine Horſes, to prevent them falling into the Papiſts hands, Who give out, That when they have received their further Succours from <hi>France,</hi> and reduced to Obe<g ref="char:EOLhyphen"/>dience, the Heretical Rebels in <hi>London-Derry,</hi> and in <hi>Inniskilling,</hi> they are to march further North<g ref="char:EOLhyphen"/>ward, and Embarque for <hi>Scotland:</hi> But by the U<g ref="char:EOLhyphen"/>nanimous Zeal of the Convention and People of that Ancient Kingdom, their Expectation and Depen<g ref="char:EOLhyphen"/>dance hath deceived them, moſt of the Chiefs of <hi>Clanns</hi> or <hi>Tribes</hi> have freely offered their Service for the King and Eſtates, and the reſt Cited to give the Bond of Peace for themſelves and Vaſſals: Nay, the Viſcount of <hi>Dundee</hi> who hath with about 200 Horſe rode the length of <hi>Murray</hi> in the North, and amongſt the Duke of <hi>Gordon</hi>'s, and other of the Highland <hi>Clanns</hi> cannot get any to obey his Commands, or by Perſwaſion engage any Gentleman to joyn with him, no not the Papiſt <hi>Highlanders;</hi> and ſuch have been the Zeal and diſpatch of the Convention, that all the Militia both Officers and Souldiers are ſetled, and all good Proteſtants: And above all this, the Lord <hi>Neile Campbell,</hi> Sir <hi>Hugh Campbell</hi> of <hi>Caddell,</hi> and all the Nobility, Lords, and Lairds, whoſe Territories are in any Danger from an <hi>Iriſh French</hi> Invaſion, have applied to the Convention with Offers of raiſing and heading many Regiments without Charge to the Publick, which is accepted, and Powers given them ſo to do, and all the Militia put into Proteſtants Hands: So that it's believed an Army of 20000 Horſe and Foot will ſooner be in the North of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> from <hi>Scotland,</hi> than <hi>Scotland</hi> invaded by the <hi>French</hi> and <hi>Iriſh</hi> Army, whoſe very Names are be<g ref="char:EOLhyphen"/>come more odious then ſeared by the <hi>Bratiſh.</hi>
+            </p>
+            <p>The <hi>French</hi> Fleet having in <hi>March</hi> laſt Tranſport<g ref="char:EOLhyphen"/>ed the late King into <hi>Ireland,</hi> returned back to <hi>Breſt,</hi> where they have lain ever ſince, and being increaſed unto near Forty Sail of all ſorts.</p>
+            <p>On Friday Morning, <hi>April</hi> the 26th ſet Sail a<g ref="char:EOLhyphen"/>gain for <hi>Ireland,</hi> having on Board many Land-men, a great Sum of Money, Arms, and Ammunition, ſteering for <hi>Kingſale,</hi> and were met on Monday the 29th at eight at Night, ſeven Leagues Weſtward
+<pb n="2" facs="tcp:45522:2" rendition="simple:additions"/>of the Cape of <hi>Ireland</hi> near the Shore, the Wind at Eaſt, by Mr. <hi>Andrew Hopkins</hi> Commander of the <hi>Adven<g ref="char:EOLhyphen"/>ture</hi> of <hi>Byddiford,</hi> homewards bound from <hi>Mary-Land</hi> with Tobacco, who ſays they were in all 37 Sail, whereof 20 Capital Ships, 8 Fire-Ships, the reſt Tenders, and Fly-Boats with Souldiers, one of them made Sail after <hi>Hopkins,</hi> who braced to his Sails, and ſtaid for him, but the <hi>French</hi> Admiral fireing a Gun the Frigat left the perſuite, and borne up to the Fleet, who made but a ſlack Sail, moſt of them having their Top-Sails on the Cap, and all in a Line in a fighting poſture, and believes they were deſigned for the North of <hi>Ireland.</hi>
+            </p>
+            <p>On Tueſday about eight in the Morning, <hi>April</hi> the 30th, Mr. <hi>Hopkins</hi> met one of Admiral <hi>Herbert</hi>'s Scouts who commanded him on Board, and after<g ref="char:EOLhyphen"/>wards went to the Admiral, and gave him a de<g ref="char:EOLhyphen"/>ſcription of the <hi>French</hi> Fleet, and that they were then about to Leagues to Leeward of our Fleet, upon which the Sea-men gave a very great Shout, and made all preparations to engage them, making alſo all the Sail they could: Our Fleet conſiſted of 26 Sail without the Fire-Ships who were left in <hi>Milford</hi> Haven, being very Leaky; when Mr. <hi>Hopkins</hi> left our Fleet, ſome of his Men from the Top-maſt head diſcovered 8 Sail which he believed were part of the ſaid <hi>French</hi> Fleet, and that our Fleet met them that Evening; and further ſays, the <hi>French</hi> could not Land their Men, <hi>&amp;c.</hi> thereabouts.</p>
+            <p>On Tueſday laſt the <hi>Mary,</hi> Captain <hi>Matthew Aylmer</hi> Commander, came to the <hi>Spithead,</hi> and came aſhore at <hi>Portſmouth,</hi> whence he immediately took Poſt for the Court, to give his Majeſty an ac<g ref="char:EOLhyphen"/>count of the Engagement that enſued on Wedneſday <hi>May</hi> the firſt, as Follows; the <hi>Engliſh</hi> Admiral finding them on Tueſday Night got all into the Bay of <hi>Bantrey,</hi> lay by all Night, and next Morn<g ref="char:EOLhyphen"/>ing by break of Day ſtood in upon them, and with 8 or 9 Sail made a deſperate Fight againſt 28 Sail of the <hi>French,</hi> and five Fire-Ships, with all the diſad<g ref="char:EOLhyphen"/>vantages imaginable, the Enemy having the Wind, and the <hi>Engliſh</hi> not able to make uſe of their lower Tyre of Guns, yet nevertheleſs maintain'd the Fight for many hours, and at five at Night ſtood off to Sea, and the <hi>French</hi> at the ſame time tacking from them, by which it's gueſſed they have received great loſs of Men, and damage in their Ships, and had not then Landed either Men, Money, Arms, or Ammunition; which two reaſons may be given for; the one, that they purſued not the Advantage they had by Num<g ref="char:EOLhyphen"/>bers and Wind; or elſe according to their conſtant practice by Land and Sea, not to hazard Men or Ships without inevitable Neceſſity; their work then being to Land Succours, not fight.</p>
+            <p>Letters of the third Inſtant from our Fleet ſay, the <hi>French</hi> were in the Bay, ſo near the Shore, that they could not get to Windward of them, that five of their Capital Ships were at one time upon the <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> Admiral <hi>Herbert</hi>'s Ship, and the <hi>Pendennis,</hi> Capt. <hi>Cloudſly Shovel</hi>'s Ship, but cleared themſelves brave<g ref="char:EOLhyphen"/>ly; the Admiral is much damaged in his Sails and Rigging, and loſt 20 or 30 Men, the <hi>Pendennis</hi> not ſo many, Captain <hi>Aſhby</hi> in the <hi>Edgar</hi> 60 or 70, Cap<g ref="char:EOLhyphen"/>tain <hi>Aylmer</hi> in the <hi>Portland</hi> is killed, and 14 or 15 of his Men.</p>
+            <p>They have ſunk two of the <hi>French</hi> Capital Ships and killed many of their Men, that five of the <hi>Engliſh</hi> Ships chiefly bore four hours hot Engagement, the reit not being able to come up to them.</p>
+            <p>Letters from <hi>Exon</hi> of the 8th Inſtant ſay, Admi<g ref="char:EOLhyphen"/>ral <hi>Herbert</hi> is come into <hi>Plymouth,</hi> and that they have ſunk the <hi>French Admiral,</hi> and one more, and that the <hi>Engliſh</hi> are refitting their Sails, and Rig<g ref="char:EOLhyphen"/>ging, in which they ſuffered the moſt Damage.</p>
+            <p>Letters from <hi>Cheſter</hi> of the 8th Inſtant ſay, the Advice-Boat with an Expreſs from the King to <hi>Lon<g ref="char:EOLhyphen"/>don-Derry</hi> that went off from <hi>Liverpool</hi> the 30th paſt, is come back, and gives account that the <hi>Iriſh</hi> Coa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was full of Souldiers, but however with ſome diffi<g ref="char:EOLhyphen"/>culty, by help of a Man of War ent in the Expreſs, which when received by direction, they were to give three Huzzaes, which they did, and made great re<g ref="char:EOLhyphen"/>joycing for it, drinking their Majeſties Healths in Spring Water; and it's ſaid have aſſured the King by Expreſs back, they will hold out to the laſt, and want neither Ammunition nor Proviſions, and in three late Sallies on the Beſiegers, have killed 400, and retreated each time with little loſs.</p>
+            <p>And this Week is come to Town one Mr. <hi>Web</hi> a moſt worthy, Grave, and Reverend Divine, who is Miniſter of <hi>Inniskilling</hi> in <hi>Ireland,</hi> who having Pro<g ref="char:EOLhyphen"/>claimed King <hi>William</hi> and Queen <hi>Mary,</hi> and pub<g ref="char:EOLhyphen"/>lickly Prayed for them, enraged the Papiſts to that height, that the Lord <hi>Galmoy</hi> at the head of ſome thouſands of <hi>Iriſh</hi> were drawing towards the place, threatning to hang up the ſaid Miniſter higher than <hi>Haman</hi> was, and to put the reſt to the Sword. But they fear him not, having 2000 Men well Armed in the place, and Ammunition and Proviſions for ſome Months, yet ſuch was their reſpect and ten<g ref="char:EOLhyphen"/>derneſs to this worthy Divine, that they even ſor<g ref="char:EOLhyphen"/>ced him to withdraw, leaſt time and Accidents might force them to Surrender into the hands of thoſe who would have no Mercy on him; ſo he eſcaped to <hi>London-Derry,</hi> and there got ten Barrels of Pow<g ref="char:EOLhyphen"/>der to be ſent to <hi>Inniskilling.</hi>
+            </p>
+            <p>Since the arrival of Captain <hi>Aylmer</hi> (Brother to the late Captain <hi>Aylmer</hi> that was kill'd in the Fight) who brought the Account to the King of the Engage<g ref="char:EOLhyphen"/>ment, divers Letters are come, which confirm the former Relations, and ſome with this Addition, That the next day after the Fight they took two ſmall <hi>French</hi> Veſſels, who were making homewards with Advice of the Action: The Priſoners do declare, that their Admiral was killed, and two of their Capital Ships ſunk, 12 diſabled, and a great number of their Men killed and wounded, and that they all highly applaud the Courage of the <hi>Engliſh</hi> Sea-men, and bravery of their Commanders. Admiral <hi>Herbert</hi> is certainly come into <hi>Plymouth,</hi> much diſabled, and the other diſabled Ships into <hi>Portſmouth,</hi> where all hands are put to refit them, to joyn the <hi>Dutch</hi> Fleet, which are paſſed Weſtward, conſiſting of 28 Sail of Capital Ships, 10 Fire-ſhips, and ſome Tenders.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Morris</hi> in <hi>Fleet-ſtreet.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
